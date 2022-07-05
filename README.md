@@ -1,5 +1,5 @@
-# consume_and_expose_restapi_using_spring_boot
-This application consume's Homebrew’s JSON API https://formulae.brew.sh/docs/api/#get-formula-metadata-for-a-core-formula to get the formula and expose an endpoint [GET] /formula?name=
+#Consume and expose REST API using spring boot
+This application consume Homebrew’s JSON API [https://formulae.brew.sh/docs/api/#get-formula-metadata-for-a-core-formula](https://formulae.brew.sh/docs/api/#get-formula-metadata-for-a-core-formula) to get the formula and expose an endpoint [GET] /formula?name=
 which takes a formula name as a request parameter and returns its description,
 version, dependencies and generated date.
 
