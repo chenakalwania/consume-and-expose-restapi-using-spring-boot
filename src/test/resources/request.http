@@ -1,1 +1,1 @@
-GET http://localhost:8084/formula?name=wget
+GET http://localhost:8080/formula?name=wget
