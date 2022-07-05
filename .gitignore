@@ -1,0 +1,46 @@
+target/
+bin/
+out/
+lib/
+generated/
+.classpath
+.project
+reports/
+logs
+tmp
+rebel.xml
+
+/build.yaml
+
+# IntelliJ Files
+*.iws
+*.ipr
+*.iml
+.idea/
+.shelf
+
+# Eclipse files
+.metadata
+.settings/
+
+# Netbeans files
+nbproject/
+build.xml
+
+# Logs
+*.log
+
+# Mac wierdness
+.DS_Store
+
+atlassian-ide-plugin.xml
+
+# gradle
+.gradle/
+build/
+release
+
+# varia
+*.bak
+/cloud/appInsight/applicationinsights-agent*.jar
+
